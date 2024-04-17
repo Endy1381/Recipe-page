@@ -60,7 +60,16 @@ li::marker {
     display: flex;
     flex-direction: column;
     background-color: hsl(330, 100%, 98%);
+    padding: 4%;
 }
+.section1 ul {
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+
+
 section {
     padding: 3%;
     margin: 3%;
@@ -78,4 +87,31 @@ section {
 
 .bold2 {
     padding-right: 40%;
+    color: hsl(332, 51%, 32%);
+}
+
+
+@media only screen and (max-width: 768px) {
+    body {
+        background-color: white;
+    }
+    img {
+        border-radius: 0;
+        margin: 0;
+        padding: 0;
+    }
+    .main {
+        margin: 0;
+        padding: 0;
+    }
+    .card {
+        margin: 0;
+        padding: 0;
+    }
+    section {
+        margin: 6%;
+    }
+    header {
+        margin: 6%;
+    }
 }
