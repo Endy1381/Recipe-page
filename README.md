@@ -10,6 +10,6 @@
 
 this is a simple project that i made from Frontend Mentor.
 
-
+web link: https://endy1381.github.io/Recipe-page/
 
 thanks for visiting😊
