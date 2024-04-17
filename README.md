@@ -1,6 +1,6 @@
 # Recipie page
 
-### pc verion
+### pc version
 
 ![alt text](image.png)
 
